@@ -108,6 +108,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="OneWire.cs" />
+    <Compile Include="OneWireAdvanced.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Properties\DS18B201WireLib.rd.xml" />
   </ItemGroup>
